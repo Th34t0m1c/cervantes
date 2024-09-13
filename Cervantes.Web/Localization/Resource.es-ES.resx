@@ -1120,7 +1120,7 @@
         <value>Se ha producido un error al editar la Tarea!</value>
     </data>
     <data name="vulnImportedError" xml:space="preserve">
-        <value>Se ha producido un error al importar las vulenrabilidades!</value>
+        <value>Se ha producido un error al importar las vulnerabilidades!</value>
     </data>
     <data name="executiveSummarySaved" xml:space="preserve">
         <value>Resumen ejecutivo guardado correctamente!</value>
